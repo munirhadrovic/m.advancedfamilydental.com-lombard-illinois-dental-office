@@ -786,9 +786,9 @@ div.ui-controlgroup-label {
 -----------------------------------------------------------------------------------------------------------*/
 .ui-btn,
 label.ui-btn {
-	font-weight: bold;
-	border-width: 1px;
-	border-style: solid;
+	/*font-weight: bold;*/
+	/*border-width: 1px;*/
+	/*border-style: solid;*/
 }
 .ui-btn {
 	text-decoration: none !important;
@@ -1144,14 +1144,14 @@ html .ui-panel-page-container-b {
 html .ui-bar-b a,
 html .ui-body-b a,
 html body .ui-group-theme-b a {
-	color: #22aadd /*{b-link-color}*/;
+	color: #3E5370 /*{b-link-color}*/;
 	/*font-weight: bold;*/
 }
 .ui-page-theme-b a:visited,
 html .ui-bar-b a:visited,
 html .ui-body-b a:visited,
 html body .ui-group-theme-b a:visited {
-    color: #22aadd /*{b-link-visited}*/;
+   /* color: #22aadd /*{b-link-visited}*/;
 }
 .ui-page-theme-b a:hover,
 html .ui-bar-b a:hover,
